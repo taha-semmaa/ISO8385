@@ -1,0 +1,2 @@
+module Bitmap_java {
+}
